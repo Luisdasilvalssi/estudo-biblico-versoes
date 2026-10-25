@@ -1,1 +1,1 @@
-# estudo-biblico-versoes
+Versões do Estudo Bíblico
